@@ -8,3 +8,5 @@ Use Cupertino and Material Widgets in parallel and provide a different user inte
 
 
 We’re going to make a crypto currency price checking app with 3 big cryptocurrencies: BTC, ETH, LTC
+
+![Screenshot](/bitcointicker.png)
